@@ -1,0 +1,49 @@
+[
+    {
+      "employeeId": 123456,
+      "name": "Swayam mohanty",
+      "dob": "12/1/1999",
+      "salary": 10000,
+      "skills": [
+        "React",
+        "Angular",
+        "Node"
+      ],
+      "photo": true
+    },
+    {
+      "employeeId": 123457,
+      "name": "Saurabh sinha",
+      "dob": "12/7/1999",
+      "salary": 10000,
+      "skills": [
+        "React",
+        "Angular",
+        "Node",
+        "JS"
+      ],
+      "photo": true
+    },
+    {
+      "employeeId": 123458,
+      "name": "Anshul mohanty",
+      "dob": "12/4/1999",
+      "salary": 70000,
+      "skills": [
+        "React",
+        "Angular"
+      ],
+      "photo": true
+    },
+    {
+      "employeeId": 123496,
+      "name": "Vivaan mohanty",
+      "dob": "12/1/1989",
+      "salary": 50000,
+      "skills": [
+        "React",
+        "Node"
+      ],
+      "photo": true
+    }
+  ]

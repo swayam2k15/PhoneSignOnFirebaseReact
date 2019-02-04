@@ -30,3 +30,7 @@
     transform: rotate(360deg);
   }
 }
+
+.skill-checkBox {
+  display: inline;
+}
